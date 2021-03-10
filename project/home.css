@@ -1,0 +1,35 @@
+header{
+	height: 100px;
+	background: #262626;
+	width: 100%;
+	z-index: 12;
+}
+.logo{
+	float: left;
+	width: 30%;
+	line-height: 100px;
+}
+.logo a{
+	text-decoration:none;
+	font-size: 30px;
+	font-family: bignoodletitling;
+	color: #fff;
+	letter-spacing: 5px;
+	margin-left: 20px;
+}
+nav{
+	float: right;
+	line-height: 100px;
+}
+nav a{
+	text-decoration: none;
+	font-family: bignoodletitling;
+	letter-spacing: 4px;
+	font-size: 20px;
+	margin:0 10px;
+	color: #fff;
+}
+p{
+	background-color: lightblue;
+	text-align:center;
+}
